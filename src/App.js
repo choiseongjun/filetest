@@ -18,6 +18,7 @@ function App() {
       >
         <input type="file" accept="image/*" />
       </div> */}
+      {/*sd */}
       <SendbirdApp appId={APP_ID} userId={USER_ID} />
     </div>
   );
