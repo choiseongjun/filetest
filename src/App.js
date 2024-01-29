@@ -13,7 +13,7 @@ function App() {
           height: "100vh",
         }}
       >
-        <input type="file" />
+        <input type="file" accept="image/*" />
       </div>
     </div>
   );
